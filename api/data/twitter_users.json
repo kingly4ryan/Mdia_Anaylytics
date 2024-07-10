@@ -1,0 +1,402 @@
+[
+  {
+    "user_id": 1,
+    "username": "user1",
+    "followers_count": 1500,
+    "following_count": 300,
+    "account_creation_date": "2015-01-01",
+    "location": "New York"
+  },
+  {
+    "user_id": 2,
+    "username": "user2",
+    "followers_count": 2500,
+    "following_count": 500,
+    "account_creation_date": "2016-02-01",
+    "location": "Los Angeles"
+  },
+  {
+    "user_id": 3,
+    "username": "user3",
+    "followers_count": 1800,
+    "following_count": 400,
+    "account_creation_date": "2017-03-01",
+    "location": "Chicago"
+  },
+  {
+    "user_id": 4,
+    "username": "user4",
+    "followers_count": 2000,
+    "following_count": 450,
+    "account_creation_date": "2018-04-01",
+    "location": "San Francisco"
+  },
+  {
+    "user_id": 5,
+    "username": "user5",
+    "followers_count": 3000,
+    "following_count": 600,
+    "account_creation_date": "2019-05-01",
+    "location": "Seattle"
+  },
+  {
+    "user_id": 6,
+    "username": "user6",
+    "followers_count": 1200,
+    "following_count": 200,
+    "account_creation_date": "2020-06-01",
+    "location": "Miami"
+  },
+  {
+    "user_id": 7,
+    "username": "user7",
+    "followers_count": 1400,
+    "following_count": 250,
+    "account_creation_date": "2015-07-01",
+    "location": "Denver"
+  },
+  {
+    "user_id": 8,
+    "username": "user8",
+    "followers_count": 2200,
+    "following_count": 350,
+    "account_creation_date": "2016-08-01",
+    "location": "Austin"
+  },
+  {
+    "user_id": 9,
+    "username": "user9",
+    "followers_count": 2600,
+    "following_count": 400,
+    "account_creation_date": "2017-09-01",
+    "location": "Boston"
+  },
+  {
+    "user_id": 10,
+    "username": "user10",
+    "followers_count": 1800,
+    "following_count": 300,
+    "account_creation_date": "2018-10-01",
+    "location": "Portland"
+  },
+  {
+    "user_id": 11,
+    "username": "user11",
+    "followers_count": 2000,
+    "following_count": 450,
+    "account_creation_date": "2019-11-01",
+    "location": "San Diego"
+  },
+  {
+    "user_id": 12,
+    "username": "user12",
+    "followers_count": 1700,
+    "following_count": 320,
+    "account_creation_date": "2020-12-01",
+    "location": "Las Vegas"
+  },
+  {
+    "user_id": 13,
+    "username": "user13",
+    "followers_count": 2500,
+    "following_count": 400,
+    "account_creation_date": "2015-11-01",
+    "location": "Atlanta"
+  },
+  {
+    "user_id": 14,
+    "username": "user14",
+    "followers_count": 1900,
+    "following_count": 300,
+    "account_creation_date": "2016-12-01",
+    "location": "Philadelphia"
+  },
+  {
+    "user_id": 15,
+    "username": "user15",
+    "followers_count": 2800,
+    "following_count": 500,
+    "account_creation_date": "2017-01-01",
+    "location": "San Antonio"
+  },
+  {
+    "user_id": 16,
+    "username": "user16",
+    "followers_count": 2100,
+    "following_count": 400,
+    "account_creation_date": "2018-02-01",
+    "location": "Phoenix"
+  },
+  {
+    "user_id": 17,
+    "username": "user17",
+    "followers_count": 2300,
+    "following_count": 450,
+    "account_creation_date": "2019-03-01",
+    "location": "Dallas"
+  },
+  {
+    "user_id": 18,
+    "username": "user18",
+    "followers_count": 1600,
+    "following_count": 250,
+    "account_creation_date": "2020-04-01",
+    "location": "Houston"
+  },
+  {
+    "user_id": 19,
+    "username": "user19",
+    "followers_count": 2400,
+    "following_count": 500,
+    "account_creation_date": "2015-05-01",
+    "location": "Orlando"
+  },
+  {
+    "user_id": 20,
+    "username": "user20",
+    "followers_count": 2200,
+    "following_count": 300,
+    "account_creation_date": "2016-06-01",
+    "location": "Detroit"
+  },
+  {
+    "user_id": 21,
+    "username": "user21",
+    "followers_count": 1800,
+    "following_count": 350,
+    "account_creation_date": "2017-07-01",
+    "location": "Minneapolis"
+  },
+  {
+    "user_id": 22,
+    "username": "user22",
+    "followers_count": 2500,
+    "following_count": 450,
+    "account_creation_date": "2018-08-01",
+    "location": "Charlotte"
+  },
+  {
+    "user_id": 23,
+    "username": "user23",
+    "followers_count": 1900,
+    "following_count": 320,
+    "account_creation_date": "2019-09-01",
+    "location": "Indianapolis"
+  },
+  {
+    "user_id": 24,
+    "username": "user24",
+    "followers_count": 2100,
+    "following_count": 400,
+    "account_creation_date": "2020-10-01",
+    "location": "Baltimore"
+  },
+  {
+    "user_id": 25,
+    "username": "user25",
+    "followers_count": 2300,
+    "following_count": 500,
+    "account_creation_date": "2015-11-01",
+    "location": "Columbus"
+  },
+  {
+    "user_id": 26,
+    "username": "user26",
+    "followers_count": 1700,
+    "following_count": 300,
+    "account_creation_date": "2016-12-01",
+    "location": "Milwaukee"
+  },
+  {
+    "user_id": 27,
+    "username": "user27",
+    "followers_count": 2600,
+    "following_count": 450,
+    "account_creation_date": "2017-01-01",
+    "location": "Nashville"
+  },
+  {
+    "user_id": 28,
+    "username": "user28",
+    "followers_count": 2400,
+    "following_count": 400,
+    "account_creation_date": "2018-02-01",
+    "location": "Washington"
+  },
+  {
+    "user_id": 29,
+    "username": "user29",
+    "followers_count": 1500,
+    "following_count": 250,
+    "account_creation_date": "2019-03-01",
+    "location": "New Orleans"
+  },
+  {
+    "user_id": 30,
+    "username": "user30",
+    "followers_count": 2800,
+    "following_count": 500,
+    "account_creation_date": "2020-04-01",
+    "location": "Cleveland"
+  },
+  {
+    "user_id": 31,
+    "username": "user31",
+    "followers_count": 2200,
+    "following_count": 400,
+    "account_creation_date": "2015-05-01",
+    "location": "Kansas City"
+  },
+  {
+    "user_id": 32,
+    "username": "user32",
+    "followers_count": 1900,
+    "following_count": 350,
+    "account_creation_date": "2016-06-01",
+    "location": "St. Louis"
+  },
+  {
+    "user_id": 33,
+    "username": "user33",
+    "followers_count": 2100,
+    "following_count": 450,
+    "account_creation_date": "2017-07-01",
+    "location": "Tampa"
+  },
+  {
+    "user_id": 34,
+    "username": "user34",
+    "followers_count": 2300,
+    "following_count": 400,
+    "account_creation_date": "2018-08-01",
+    "location": "Pittsburgh"
+  },
+  {
+    "user_id": 35,
+    "username": "user35",
+    "followers_count": 1700,
+    "following_count": 320,
+    "account_creation_date": "2019-09-01",
+    "location": "Memphis"
+  },
+  {
+    "user_id": 36,
+    "username": "user36",
+    "followers_count": 1500,
+    "following_count": 250,
+    "account_creation_date": "2020-10-01",
+    "location": "Richmond"
+  },
+  {
+    "user_id": 37,
+    "username": "user37",
+    "followers_count": 2600,
+    "following_count": 500,
+    "account_creation_date": "2015-11-01",
+    "location": "Louisville"
+  },
+  {
+    "user_id": 38,
+    "username": "user38",
+    "followers_count": 2400,
+    "following_count": 400,
+    "account_creation_date": "2016-12-01",
+    "location": "Birmingham"
+  },
+  {
+    "user_id": 39,
+    "username": "user39",
+    "followers_count": 1800,
+    "following_count": 300,
+    "account_creation_date": "2017-01-01",
+    "location": "Jacksonville"
+  },
+  {
+    "user_id": 40,
+    "username": "user40",
+    "followers_count": 2800,
+    "following_count": 500,
+    "account_creation_date": "2018-02-01",
+    "location": "Anchorage"
+  },
+  {
+    "user_id": 41,
+    "username": "user41",
+    "followers_count": 2200,
+    "following_count": 400,
+    "account_creation_date": "2019-03-01",
+    "location": "Honolulu"
+  },
+  {
+    "user_id": 42,
+    "username": "user42",
+    "followers_count": 1900,
+    "following_count": 350,
+    "account_creation_date": "2020-04-01",
+    "location": "Sacramento"
+  },
+  {
+    "user_id": 43,
+    "username": "user43",
+    "followers_count": 2100,
+    "following_count": 450,
+    "account_creation_date": "2015-05-01",
+    "location": "Salt Lake City"
+  },
+  {
+    "user_id": 44,
+    "username": "user44",
+    "followers_count": 2300,
+    "following_count": 400,
+    "account_creation_date": "2016-06-01",
+    "location": "Reno"
+  },
+  {
+    "user_id": 45,
+    "username": "user45",
+    "followers_count": 1700,
+    "following_count": 320,
+    "account_creation_date": "2017-07-01",
+    "location": "Boise"
+  },
+  {
+    "user_id": 46,
+    "username": "user46",
+    "followers_count": 1500,
+    "following_count": 250,
+    "account_creation_date": "2018-08-01",
+    "location": "Cheyenne"
+  },
+  {
+    "user_id": 47,
+    "username": "user47",
+    "followers_count": 2600,
+    "following_count": 500,
+    "account_creation_date": "2019-09-01",
+    "location": "Juneau"
+  },
+  {
+    "user_id": 48,
+    "username": "user48",
+    "followers_count": 2400,
+    "following_count": 400,
+    "account_creation_date": "2020-10-01",
+    "location": "Helena"
+  },
+  {
+    "user_id": 49,
+    "username": "user49",
+    "followers_count": 1800,
+    "following_count": 300,
+    "account_creation_date": "2015-11-01",
+    "location": "Bismarck"
+  },
+  {
+    "user_id": 50,
+    "username": "user50",
+    "followers_count": 2800,
+    "following_count": 500,
+    "account_creation_date": "2016-12-01",
+    "location": "Charleston"
+  }
+]
